@@ -2,6 +2,10 @@
 
 This contains everything you need to run your app locally.
 
+部署在https://vercel.com/tgxs-projects-2df785ec/wenchuang
+
+访问链接：https://wenchuang-dusky.vercel.app/
+
 ## 项目说明
 文创招新系统，用于拾光文创的招新面试相关功能。
 
