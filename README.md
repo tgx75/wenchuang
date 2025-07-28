@@ -6,6 +6,8 @@ This contains everything you need to run your app locally.
 
 访问链接：https://wenchuang-dusky.vercel.app/
 
+数据库：https://supabase.com/dashboard/project/qjdqveraugjivlvpicco/database/schemas
+
 ## 项目说明
 文创招新系统，用于拾光文创的招新面试相关功能。
 
