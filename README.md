@@ -1,11 +1,13 @@
-# Run and deploy your AI Studio app
+# wenchuang（文创招新）
 
 This contains everything you need to run your app locally.
+
+## 项目说明
+文创招新系统，用于拾光文创的招新面试相关功能。
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
